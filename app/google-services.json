@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242730968365",
+    "project_id": "challenge8-c7953",
+    "storage_bucket": "challenge8-c7953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242730968365:android:803c51c89ac436f22d1fa4",
+        "android_client_info": {
+          "package_name": "com.quran.zquran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFW_s4s4Mev_-VCIGEgE5ft6c6pPAVyjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242730968365:android:ce0fa45de377800e2d1fa4",
+        "android_client_info": {
+          "package_name": "com.quran.zquran.free.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFW_s4s4Mev_-VCIGEgE5ft6c6pPAVyjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
