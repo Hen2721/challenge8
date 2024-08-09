@@ -26,6 +26,25 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:242730968365:android:c11f6dced3da79402d1fa4",
+        "android_client_info": {
+          "package_name": "com.quran.zquran.free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFW_s4s4Mev_-VCIGEgE5ft6c6pPAVyjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:242730968365:android:ce0fa45de377800e2d1fa4",
         "android_client_info": {
           "package_name": "com.quran.zquran.free.debug"
